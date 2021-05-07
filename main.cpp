@@ -6,11 +6,10 @@ void menu()
 {
 
 		system("Color c");
-	cout << "Turnt Clicker by Jordan\n\n\n";
-	cout << "Turnt Clicker v1.0\n\n\n";
+	cout << "Turnt Clicker v1.1 - @JordanDevelops\n\n\n";
 	cout << "USING THIS ON SERVERS MAY RESULT IN A BAN. USE AT YOUR OWN RISK!\n\n";
-	cout << "Left Click -> Press 'X' to enable and 'Z' to disable Left Click Auto Click.\n\n";
-	cout << "Right Click -> Press 'V' to enable and 'C' to disable Right Click Auto Click.\n\n";
+	cout << "Left Click -> Press 'X' to enable and 'Z' to disable Left Click Auto Click. (16-17 CPS)\n\n";
+	cout << "Right Click -> Press 'V' to enable and 'C' to disable Right Click Auto Click. (65 CPS)\n\n";
 }
 
 void clicker()
